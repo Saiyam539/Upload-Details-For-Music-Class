@@ -1,0 +1,6 @@
+
+
+The name of the student is:- chugo
+The date of birth of student is:- 6 february
+The instrument played by student is:- piano
+The phone number of the student is:-- 56246186
